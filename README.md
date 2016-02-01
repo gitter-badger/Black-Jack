@@ -1,5 +1,7 @@
 # _Application Name_
 
+[![Join the chat at https://gitter.im/TimDurward/Black-Jack](https://badges.gitter.im/TimDurward/Black-Jack.svg)](https://gitter.im/TimDurward/Black-Jack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### _Short Summary of Application!_
 
 #### By _**Andy Cho, Izzy George, Kevin Mattison, Tim Durward**_
